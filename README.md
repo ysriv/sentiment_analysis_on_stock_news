@@ -39,4 +39,4 @@ Misha Dey
 Pratik Agarwala
 Shivam Kulshrestha
 Vivek Raj Rout
-Yashi Shrivastava
+Yashi Srivastava
